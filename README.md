@@ -24,19 +24,3 @@ Welcome to the **Hello Kitchen** project! This application allows users to searc
 
 ### Testing 🧪
 - **Postman**: Tool for testing API endpoints.
-
-## 🚀 Installation
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js
-- npm (Node Package Manager)
-- MongoDB
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/hello-kitchen.git
-cd hello-kitchen
