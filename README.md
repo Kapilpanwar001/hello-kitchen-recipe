@@ -1,8 +1,9 @@
 # hello-kitchen-recipe
 
-Welcome to the Hello Kitchen project! This application allows users to search for food recipes and related YouTube videos.
-Built with React.js and Tailwind CSS on the front end, and a Node.js/Express.js back end,.
-Hello Kitchen is a complete recipe and video discovery platform.
+Welcome to the Hello Kitchen project! 
+-This application allows users to search for food recipes and related YouTube videos.
+-Built with React.js and Tailwind CSS on the front end, and a Node.js/Express.js back end,.
+-Hello Kitchen is a complete recipe and video discovery platform.
 
 ## Features
 
